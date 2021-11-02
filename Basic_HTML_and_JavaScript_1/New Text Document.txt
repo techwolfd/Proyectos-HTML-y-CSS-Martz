@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<Img sc ="C:/Users/Student/Documents/GitHub/Proyectos-HTML-y-CSS/Perro.jpg" alt=“Perro”>
+<p><b>Esta letra es en megrita, </b><i>Esta letra es en cursiva, </i><u>Esta letra esta subrayada</u></p>
+</body>
+</html>
